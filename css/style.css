@@ -1,0 +1,51 @@
+body{
+  background-image: url(https://compass-ssl.xbox.com/assets/40/f0/40f0cad1-8dff-49a6-96ee-d845dd54ad13.jpg?n=Fortnite_GLP-Page-Hero-1084_Ch2-S6_1920x1080_03.jpg);
+}
+li{
+  display: inline-block;
+  padding: 20px 40px
+}
+a{
+  background-color: #00D7FF;
+  border: 1px solid #00FF30;
+  border-radius: 5px;
+  font-size: 25px;
+  padding: 5px 5px;
+  text-decoration: none;
+  color: #FFFA00;
+}
+a:hover{
+  background-color: #008CFF;
+  border: 1px solid #01FFD0;
+  border-radius: 5px;
+  font-size: 26px;
+  padding: 5px 5px;
+  text-decoration: none;
+  color: #FFCC01;
+}
+.posts{
+  border: 1px solid black;
+  border-radius: 5px;
+  font-size: 15px;
+  padding: 5px 5px;
+  text-decoration: none;
+  color: blue;
+  margin: 20px 20px;
+}
+.button{
+  background-color: #00D7FF;
+  border: 1px solid #00FF30;
+  border-radius: 5px;
+  font-size: 25px;
+  padding: 5px 5px;
+  text-decoration: none;
+  color: #FFFA00;
+}
+.button:hover{
+  background-color: #008CFF;
+  border: 1px solid #01FFD0;
+  border-radius: 5px;
+  font-size: 26px;
+  padding: 5px 5px;
+  text-decoration: none;
+  color: #FFCC01;
